@@ -1,4 +1,4 @@
-# CSCI 20 - Fall 2017 #
+# CSCI 20 - Fall 2018 #
 
 ### What is this repository for? ###
 
