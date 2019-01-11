@@ -1,4 +1,4 @@
-# CSCI 20 - Fall 2018 #
+# CSCI 20 - Butte College - Luke Sathrum #
 
 ### What is this repository for? ###
 
